@@ -1,0 +1,7 @@
+SIGN_KEY = 'oc3q7ingf978mx457fgk4587fg847'
+RUCAPTCHA_KEY = '21aa044844e27f6a03132911e25b88dc'
+NAME = 'Максимка Алескеров'
+USER_ID = 119515365
+TOKEN = '$2a$06$zOTjiu8Ng98Km0ZCvCzXNu'
+HUMAN_CAPTCHA_SOLVE = True
+level = 'INFO'
